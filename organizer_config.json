@@ -1,0 +1,13 @@
+{
+  "output_folder": "Organized",
+  "rename_files": true,
+  "detect_duplicates": true,
+  "analyze_content": true,
+  "recognize_versions": true,
+  "dry_run_first": true,
+  "project_name": "",
+  "naming_rule": "{project}_{type}_{date}_{version}",
+  "category_rules": {},
+  "ignore_directories": [".git", "node_modules", ".ai-file-organizer"],
+  "ignore_extensions": []
+}
